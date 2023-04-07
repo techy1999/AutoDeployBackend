@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   res.json({
-    msg: "Hello Backend",
+    msg: "Hello Backend , and sudhanshu is good coder",
   });
 });
 
